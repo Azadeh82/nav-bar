@@ -1,0 +1,24 @@
+nav {
+  box-shadow: 0px 0px 10px gray;
+  font-family: 'Baloo Bhai';
+  display: flex;
+  font-size: 25px;
+  color: #ff9a17;
+  height: 100px;
+  justify-content: space-around;
+  align-items: center;
+}
+ul {
+  width: 50%;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+a {
+  text-decoration: none;
+  color: #ff9a17;
+}
